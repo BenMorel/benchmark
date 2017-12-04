@@ -8,7 +8,7 @@ If you need to run a command several times across multiple processes, and check 
 
 ## How to use it?
 
-Ensure that you have PHP installed, and download [benchmark.phar](https://github.com/BenMorel/benchmark/blob/master/bin/benchmark.phar?raw=true).
+Ensure that you have PHP installed, and download [benchmark.phar](https://github.com/BenMorel/benchmark/blob/0.1.0/bin/benchmark.phar?raw=true).
 Alternatively, you can install it with Composer.
 
 Then run:
@@ -32,4 +32,4 @@ You will get an output such as:
     Average time per run: 0.423 seconds
     Runs per second: 2.36
 
-To stop, just press <kbd>Ctrl</kbd> + <kbd>C</kbd>.
+To abort, just press <kbd>Ctrl</kbd> + <kbd>C</kbd>.
