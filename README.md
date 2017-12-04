@@ -8,7 +8,11 @@ If you need to run a command several times across multiple processes, and check 
 
 ## How to use it?
 
-Ensure that you have PHP installed, and download [benchmark.phar](https://raw.githubusercontent.com/BenMorel/benchmark/0.1.0/bin/benchmark.phar).
+Ensure that you have PHP installed, and download [benchmark.phar](https://raw.githubusercontent.com/BenMorel/benchmark/0.1.0/bin/benchmark.phar):
+
+    wget https://raw.githubusercontent.com/BenMorel/benchmark/0.1.0/bin/benchmark.phar
+    chmod +x benchmark.phar
+
 Alternatively, you can install it with Composer.
 
 Then run:
