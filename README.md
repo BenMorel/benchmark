@@ -8,7 +8,7 @@ If you need to run a command several times across multiple processes, and check 
 
 ## How to use it?
 
-Ensure that you have PHP installed, and download [benchmark.phar](https://github.com/BenMorel/benchmark/blob/0.1.0/bin/benchmark.phar?raw=true).
+Ensure that you have PHP installed, and download [benchmark.phar](https://raw.githubusercontent.com/BenMorel/benchmark/0.1.0/bin/benchmark.phar).
 Alternatively, you can install it with Composer.
 
 Then run:
