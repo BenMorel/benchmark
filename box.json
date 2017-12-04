@@ -1,0 +1,13 @@
+{
+  "chmod": "0755",
+  "finder": [
+    {
+      "name": "*.php",
+      "exclude": ["Tests"],
+      "in": "vendor"
+    }
+  ],
+  "main": "benchmark.php",
+  "output": "bin/benchmark.phar",
+  "stub": true
+}

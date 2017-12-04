@@ -1,0 +1,10 @@
+{
+  "name": "benmorel/benchmark",
+  "description": "Command-line script to benchmark a command",
+  "type": "library",
+  "license": "MIT",
+  "bin": ["bin/benchmark.phar"],
+  "require-dev": {
+    "symfony/process": "3.*"
+  }
+}
